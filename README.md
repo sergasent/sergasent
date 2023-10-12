@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Sergey</h1>
 <br />
 
-I am a frontend developer who is constantly looking for opportunities to improve my professional skills. If you want to contact me, feel free to write to me in Telegram
+I am a frontend developer committed to continuous professional growth. I am always eager to enhance my skills and explore new opportunities in the field. You can reach me on Telegram.
 <div>
   <a href="https://t.me/SergAsEnt" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
