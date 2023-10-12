@@ -35,7 +35,7 @@ I am a frontend developer who is constantly looking for opportunities to improve
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sergasent&show_icons=true&theme=holi&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi&langs_count=8&hide_title=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi&langs_count=8" />
 </a>
 
 <!--
