@@ -31,7 +31,12 @@ I am a frontend developer who is constantly looking for opportunities to improve
 
 <h2>Some of my stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergasent&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sergasent&show_icons=true&theme=holi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **sergasent/sergasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
