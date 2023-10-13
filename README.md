@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Sergey</h1>
 <br />
 
-I am a frontend developer committed to continuous professional growth. I am always eager to enhance my skills and explore new opportunities in the field. You can reach me on Telegram.
+I'm a frontend developer with a passion for creating interactive and creative websites. I'm eager to learn, improve, and participate in exciting projects to contribute to the world of web development.
 
 <h2>Contacts</h2>
 <div>
