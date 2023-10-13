@@ -2,9 +2,14 @@
 <br />
 
 I am a frontend developer committed to continuous professional growth. I am always eager to enhance my skills and explore new opportunities in the field. You can reach me on Telegram.
+
+<h2>Contacts</h2>
 <div>
   <a href="https://t.me/SergAsEnt" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" />
+  </a>
+  <a href="mailto:sega12b@yandex.ru" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </div>
 
