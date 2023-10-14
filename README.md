@@ -17,22 +17,22 @@ I'm a frontend developer with a passion for creating interactive and creative we
 
 <h2>My skill set</h2>
 <div>
-  <img src="https://img.shields.io/badge/react-00a7d1?style=for-the-badge&logo=react&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" />
-  <img src="https://img.shields.io/badge/html5-D14836?style=for-the-badge&logo=html5&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/bem-555555?style=for-the-badge&logo=bem&logoColor=BBB" height="40" />
-  <img src="https://img.shields.io/badge/git-D43702?style=for-the-badge&logo=git&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/webpack-0A5E9E?style=for-the-badge&logo=webpack&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/eslint-6358D4?style=for-the-badge&logo=eslint&logoColor=fff" height="40" />
+  <img src="https://img.shields.io/badge/react-00a7d1?style=for-the-badge&logo=react&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/javascript-ccb100?style=for-the-badge&logo=javascript&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/html5-D14836?style=for-the-badge&logo=html5&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/bem-555555?style=for-the-badge&logo=bem&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/git-D43702?style=for-the-badge&logo=git&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/webpack-0A5E9E?style=for-the-badge&logo=webpack&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/eslint-6358D4?style=for-the-badge&logo=eslint&logoColor=fff" height="30" />
 </div>
 <br />
 <div>
-  <img src="https://img.shields.io/badge/node.js-26e00?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/express-888?style=for-the-badge&logo=express&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/mongodb-00bd52?style=for-the-badge&logo=mongodb&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=fff" height="40" />
-  <img src="https://img.shields.io/badge/bash-73878C?style=for-the-badge&logo=gnubash&logoColor=fff" height="40" />
+  <img src="https://img.shields.io/badge/node.js-26e00?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/express-888?style=for-the-badge&logo=express&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/mongodb-00bd52?style=for-the-badge&logo=mongodb&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/bash-73878C?style=for-the-badge&logo=gnubash&logoColor=fff" height="30" />
 </div>
 <br />
 
