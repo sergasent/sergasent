@@ -17,20 +17,22 @@ I'm a frontend developer with a passion for creating interactive and creative we
 
 <h2>My skill set</h2>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="60" height="60" />
+  <img src="https://img.shields.io/badge/react-%23323330?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" />
+  <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" />
+  <img src="https://img.shields.io/badge/html5-%23323330?style=for-the-badge&logo=html5&logoColor=D14836" height="40" />
+  <img src="https://img.shields.io/badge/css3-%23323330?style=for-the-badge&logo=css3&logoColor=%231572B6" height="40" />
+  <img src="https://img.shields.io/badge/bem-%23323330?style=for-the-badge&logo=bem&logoColor=AAAAAA" height="40" />
+  <img src="https://img.shields.io/badge/git-%23323330?style=for-the-badge&logo=git&logoColor=D14836" height="40" />
+  <img src="https://img.shields.io/badge/webpack-%23323330?style=for-the-badge&logo=webpack&logoColor=1a6bac" height="40" />
+  <img src="https://img.shields.io/badge/eslint-%23323330?style=for-the-badge&logo=eslint&logoColor=6358D4" height="40" />
 </div>
+<br />
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" />
+  <img src="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=nodedotjs&logoColor=26e00" height="40" />
+  <img src="https://img.shields.io/badge/express-%23323330?style=for-the-badge&logo=express&logoColor=eee" height="40" />
+  <img src="https://img.shields.io/badge/mongodb-%23323330?style=for-the-badge&logo=mongodb&logoColor=06ef67" height="40" />
+  <img src="https://img.shields.io/badge/nginx-%23323330?style=for-the-badge&logo=nginx&logoColor=009900" height="40" />
+  <img src="https://img.shields.io/badge/bash-%23323330?style=for-the-badge&logo=gnubash&logoColor=73878C" height="40" />
 </div>
 <br />
 
@@ -40,8 +42,15 @@ I'm a frontend developer with a passion for creating interactive and creative we
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sergasent&show_icons=true&theme=holi&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi&langs_count=8" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergasent&layout=compact&theme=holi&langs_count=8" />
 </a>
+<br />
+<br />
+<div>
+  <a href="https://www.codewars.com/users/sergasent">
+    <img align="top" src="https://www.codewars.com/users/sergasent/badges/large" />
+  </a>
+</div>
 
 <!--
 **sergasent/sergasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
