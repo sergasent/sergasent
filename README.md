@@ -31,7 +31,11 @@ I'm a frontend developer with a passion for creating interactive and creative we
 <br />
 <div>
   <img src="https://img.shields.io/badge/node.js-26e00?style=for-the-badge&logo=nodedotjs&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/nest.js-e0234e?style=for-the-badge&logo=nestjs&logoColor=fff" height="30" />
   <img src="https://img.shields.io/badge/express-888?style=for-the-badge&logo=express&logoColor=fff" height="30" />
+</div>
+<br />
+<div>
   <img src="https://img.shields.io/badge/mongodb-00bd52?style=for-the-badge&logo=mongodb&logoColor=fff" height="30" />
   <img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=fff" height="30" />
   <img src="https://img.shields.io/badge/bash-73878C?style=for-the-badge&logo=gnubash&logoColor=fff" height="30" />
