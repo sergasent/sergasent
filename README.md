@@ -5,7 +5,7 @@ I'm a frontend developer with a passion for creating interactive and creative we
 
 <h2>Contacts</h2>
 <div>
-  <a href="https://t.me/SergAsEnt" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a>
+  <a href="https://t.me/sergentumus" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a>
   <a href="mailto:sega12b@yandex.ru" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </div>
 
