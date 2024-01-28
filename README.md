@@ -48,12 +48,13 @@ I'm a frontend developer with a passion for creating interactive and creative we
 </a>
 <br />
 <br />
+<!--
 <div>
   <a href="https://www.codewars.com/users/sergasent">
     <img align="top" src="https://www.codewars.com/users/sergasent/badges/large" />
   </a>
 </div>
-
+-->
 <!--
 **sergasent/sergasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
